@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 🎓 I'm a Computer Engineering Graduate from Greater Noida Institute of Technology, GGSIPU.\
-💡 Interested in working with like-minded people enthusiastic about Data Science, ML, AI, or cutting-edge tech development.\
+💡 Interested in working with like-minded people enthusiastic about Product, ML, AI, or cutting-edge tech development.\
 🌱 I'm on track to enhancing my knowledge about Analysis, Business Intelligence, ML, AI, and System Design.\
 ⚡ In my free time, I practice Bodybuilding and MMA.\
 💬 Feel free to reach out to me for some interesting discussion about technological advancements.\
@@ -10,7 +10,6 @@
 
 ### 🛠 Languages and Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
